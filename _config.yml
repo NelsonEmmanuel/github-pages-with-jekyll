@@ -1,10 +1,13 @@
-title: Your awesome title
-author: GitHub User
+    ---
+    title: "Welcome to my blog"
+    date: 2019-02-05
+    ---
+
+
+author: Nelson Duré
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my first blog maked useing git pages
 
 # social links
 twitter_username: your-twitter-handle
@@ -12,4 +15,5 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
+
